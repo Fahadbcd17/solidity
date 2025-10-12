@@ -26,14 +26,3 @@ contract StorageFactory {
 
 }
 
-//     function callStore(uint256 _index, uint256 _simpleStoreAddress) public{
-//         SimpleStorage NewSimpleStore = ListOfSimpleStorage[_index];
-//         NewSimpleStore.store(_simpleStoreAddress);
-//     }
-
-//     function getStore(uint256 _index) public view returns(uint256){
-//         SimpleStorage getSimpleStore = ListOfSimpleStorage[_index];
-//         return getSimpleStore.retrive();
-//     }
-
-// }
